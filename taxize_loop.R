@@ -3,7 +3,6 @@
 # Neeka Sewnath
 # nsewnath@ufl.edu
 
-
 # Input: Two column dataframe: One column labeled "Genus". Second column labeled "Family"
 # Switch "family" and "genus" to any taxonomic level 
 
